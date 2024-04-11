@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## Sobre mi
 <div align="center">
-👋 ¡Hola! Soy Matias Bazan, un desarrollador full stack junior de Córdoba, Argentina.<br>
+👋 ¡Hola! Soy Matias Bazan, un desarrollador full stack de Córdoba, Argentina.<br>
 💻 Apasionado por la programación y siempre motivado para aprender y dar lo mejor de mí. 🚀
 </div><br>
 
